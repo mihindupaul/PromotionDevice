@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Button.qml</file>
+        <file>PinPage.qml</file>
+        <file>main.qml</file>
+        <file>js/Storage.js</file>
+        <file>js/APICaller.js</file>
+        <file>js/ItemListSlider.js</file>
+        <file>res/nodataavailable.png</file>
+        <file>res/lodingScreen.png</file>
+        <file>BaseScreen.qml</file>
+        <file>res/SwipCard.png</file>
+        <file>res/ClearTxt.png</file>
+        <file>res/CloseBtn.png</file>
+        <file>ItemList.qml</file>
+        <file>SingleItem.qml</file>
+        <file>res/SwipePointer.png</file>
+        <file>res/BuzzLogoDdeviceAuth.png</file>
+        <file>res/LoadingDot.png</file>
+        <file>LoadingInterface.qml</file>
+        <file>res/ConfigWheelSmall.png</file>
+        <file>Configuration.qml</file>
+        <file>res/BuzzLogoSmall.png</file>
+        <file>res/WifiBars.png</file>
+        <file>res/ConfigWheel.png</file>
+        <file>DeviceAuthentication.qml</file>
+        <file>res/DownArrow.png</file>
+        <file>SyncDB.qml</file>
+        <file>res/EfmLogo.png</file>
+        <file>OutletScreen.qml</file>
+        <file>SuccessMsgScreen.qml</file>
+        <file>ErrorScreen.qml</file>
+        <file>WifiScreen.qml</file>
+        <file>RedeemSuccessScreen.qml</file>
+        <file>Qml/KeyPad.qml</file>
+        <file>Qml/KeyPadDisplay.qml</file>
+        <file>Qml/PopUp.qml</file>
+        <file>res/CheckMark.png</file>
+        <file>Qml/WifiConfiguration.qml</file>
+        <file>res/NextBtn.png</file>
+        <file>res/PrevBtn.png</file>
+        <file>Qml/WifiStaticSettings.qml</file>
+        <file>Qml/WaitScreen.qml</file>
+        <file>res/Check.png</file>
+        <file>js/JsonFormatter.js</file>
+    </qresource>
+</RCC>
